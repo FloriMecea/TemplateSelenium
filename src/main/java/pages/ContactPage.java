@@ -20,4 +20,5 @@ public class ContactPage extends SeleniumWrappers {
     	driver.switchTo().frame(getElement(iframe));
     	click(locator);
     }
+    //coment
 }
